@@ -93,3 +93,5 @@ Orleans, New Haven.
 clicks on one result. You will have to make the results clickable and close the
 model with a close (X) button or when you click outside the model. This is all up
 to you how you want o to handle the user experience
+# ui  pages  link
+[SearchIT](https://ngirimana.github.io/SearchIT/index.html)
